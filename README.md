@@ -143,8 +143,6 @@ Discover the full list of OctoberCMS themes on https://octobercms.com/themes
 
 ### Blogs
 
--
-
 #### Official
 
 [Official OctoberCMS blog](https://octobercms.com/blog) of core team members Alexey Bobkov and Samuel Georges.

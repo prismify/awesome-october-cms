@@ -13,6 +13,7 @@
 ## Contents
 
 - [Official Resources](#official-resources)
+- [External Resources](#external-resources)
 - [Community](#community)
 - [Plugins](#plugins)
 - [Themes](#themes)
@@ -35,6 +36,12 @@
 - [OctoberCMS Plugins](https://octobercms.com/plugins)
 - [OctoberCMS Themes](https://octobercms.com/themes)
 - [GitHub Repository](https://github.com/octobercms/october)
+
+### External Resources
+
+- [OctoberCMS Tricks](https://octobertricks.com/) - October CMS resources and help articles
+- [OctoberCMS Showcases](https://octobershowcases.com/) - This site is created to showcase websites made with OctoberCMS
+- [OctoberCMS Jobs](https://octobercmsjobs.com/) - Hire expert OctoberCMS developers & find job offers
 
 ### Community
 

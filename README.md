@@ -2,7 +2,6 @@
   <br>
   <img width="300" src="media/awesome-oc-logo.png" alt="Awesome OctoberCMS">
   <br>
-  <br>
 </p>
 
 ## Awesome OctoberCMS
@@ -12,6 +11,7 @@
 
 ## Contents
 
+- [Latest News](#latest-news)
 - [Official Resources](#official-resources)
 - [External Resources](#external-resources)
 - [Community](#community)
@@ -27,6 +27,9 @@
 - [Open source projects using OctoberCMS](#open-source-projects-using-octobercms)
 - [Projects Using OctoberCMS](#projects-using-octobercms)
 
+### Latest News
+- [Laravel 9 Integration Has Begun!](https://octobercms.com/blog/post/laravel-9-integration-has-begun) - We are happy to let you know that we started integrating Laravel 9 into October CMS.
+
 ### Official Resources
 
 - [Official Website](https://octobercms.com/)
@@ -40,7 +43,7 @@
 ### External Resources
 
 - [OctoberCMS Tricks](https://octobertricks.com/) - October CMS resources and help articles
-- [OctoberCMS Showcases](https://octobershowcases.com/) - This site is created to showcase websites made with OctoberCMS
+- [OctoberCMS Show Cases](https://octobershowcases.com/) - This site is created to showcase websites made with OctoberCMS
 - [OctoberCMS Jobs](https://octobercmsjobs.com/) - Hire expert OctoberCMS developers & find job offers
 
 ### Community
@@ -62,11 +65,14 @@ Discover the full list of OctoberCMS plugins on https://octobercms.com/plugins
 - [Location](https://octobercms.com/plugin/rainlab-location) - Adds location based features, such as Country and State.
 - [Translate](https://octobercms.com/plugin/rainlab-translate) - Enables multi-lingual websites and translate website contents.
 - [Sitemap](https://octobercms.com/plugin/rainlab-sitemap) - Generate a sitemap.xml file for your website.
-- [Notify](https://octobercms.com/plugin/rainlab-notify) - Notification engine and services
+- [Notify](https://octobercms.com/plugin/rainlab-notify) - Notification engine and services.
+- [Static Pages](https://octobercms.com/plugin/rainlab-pages) - Adds static pages, menus and breadcrumbs features to OctoberCMS.
 
 #### Community
 
--
+## E-commerce
+- [Shopaholic](https://octobercms.com/plugin/lovata-shopaholic) - E-commerce platform for October CMS
+- [Mall](https://octobercms.com/plugin/offline-mall) - E-commerce solution for October CMS
 
 ### Themes
 
@@ -79,8 +85,7 @@ Discover the full list of OctoberCMS themes on https://octobercms.com/themes
 - [Bonjour](https://octobercms.com/theme/rainlab-bonjour) - A sample multi-lingual theme for translated content.
 
 #### Community
-
-- [Bootstrap 5](https://octobercms.com/theme/prismify-bootstrap-starter-kit) - Starter theme based on Bootstrap 5 with SASS and Laravel Mix.
+- [Bootstrap 5 - Starter Kit](https://octobercms.com/theme/prismify-bootstrap-starter-kit) - Starter theme based on Bootstrap 5 with SASS and Laravel Mix.
 
 ### Tools
 

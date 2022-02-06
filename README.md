@@ -53,6 +53,7 @@
 - [Discord](https://discord.gg/3jfN9SZxMr)
 - [Telegram, English community](https://t.me/octoberchat)
 - [Telegram, Russian community](https://t.me/octobercms_rus)
+- [Russian community forum](https://octoclub.ru)
 
 ### Plugins
 

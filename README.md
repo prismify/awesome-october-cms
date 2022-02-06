@@ -71,7 +71,7 @@ Discover the full list of OctoberCMS plugins on https://octobercms.com/plugins
 
 #### Community
 
-## E-commerce
+###### E-commerce
 - [Shopaholic](https://octobercms.com/plugin/lovata-shopaholic) - E-commerce platform for October CMS
 - [Mall](https://octobercms.com/plugin/offline-mall) - E-commerce solution for October CMS
 

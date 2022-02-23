@@ -70,6 +70,7 @@ Discover the full list of OctoberCMS plugins on https://octobercms.com/plugins
 - [Static Pages](https://octobercms.com/plugin/rainlab-pages) - Adds static pages, menus and breadcrumbs features to OctoberCMS.
 
 #### Community
+- [EditorJS](https://octobercms.com/plugin/reazzon-editor) - Most powerful, next generation block styled editor with multilingual support.
 
 ###### E-commerce
 - [Shopaholic](https://octobercms.com/plugin/lovata-shopaholic) - E-commerce platform for October CMS
